@@ -14326,3 +14326,12 @@
   timeWait: 0 mins
   timeBuild: 6 mins
   timeTotal: 6 mins
+- name: devspaces-dashboard-rhel9
+  tag: 3.18-5
+  taskId: 66374028
+  timeCreate: Tue Jan 14 06:38:12 2025
+  timeStart: Tue Jan 14 06:38:25 2025
+  timeFinish: Tue Jan 14 07:10:52 2025
+  timeWait: 0 mins
+  timeBuild: 32 mins
+  timeTotal: 32 mins

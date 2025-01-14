@@ -16,10 +16,10 @@ quay.io/devspaces/devspaces-operator-bundle:3.18-22
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3465459
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=d642073df00021319007a47fcc24a0ec7b3af528
 
-quay.io/devspaces/dashboard-rhel9:3.18-4
-     NVR: devspaces-dashboard-rhel9-container-3.18-4
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3465438
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-dashboard/commit?id=d4ad1953fab3272b8e3f71501259a64a5c7e0091
+quay.io/devspaces/dashboard-rhel9:3.18-5
+     NVR: devspaces-dashboard-rhel9-container-3.18-5
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3467338
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-dashboard/commit?id=7a6ee2f3321047c5cdde19cce48bb1be220fc2c7
 
 quay.io/devspaces/idea-rhel9:3.18-2
      NVR: devspaces-idea-rhel9-container-3.18-2
