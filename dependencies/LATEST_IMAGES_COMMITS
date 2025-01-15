@@ -11,10 +11,10 @@ quay.io/devspaces/configbump-rhel9:3.18-1
 
 quay.io/devspaces/devspaces-rhel9-operator:3.18-18
 
-quay.io/devspaces/devspaces-operator-bundle:3.18-25
-     NVR: devspaces-operator-bundle-container-3.18-25
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3469577
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=9a174249a5ccda67ec14b9c1947af5ae2a7c9633
+quay.io/devspaces/devspaces-operator-bundle:3.18-26
+     NVR: devspaces-operator-bundle-container-3.18-26
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3470176
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=1e64fd6a0ee4d69eac63dc75d686a30cf8bacff9
 
 quay.io/devspaces/dashboard-rhel9:3.18-6
      NVR: devspaces-dashboard-rhel9-container-3.18-6
