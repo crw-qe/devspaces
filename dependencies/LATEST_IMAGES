@@ -1,8 +1,7 @@
 quay.io/devspaces/code-rhel9:3.18-6
-quay.io/devspaces/configbump-rhel9:3.18-1
 quay.io/devspaces/devspaces-rhel9-operator:3.18-18
-quay.io/devspaces/devspaces-operator-bundle:3.18-27
-quay.io/devspaces/dashboard-rhel9:3.18-6
+quay.io/devspaces/devspaces-operator-bundle:3.18-28
+quay.io/devspaces/dashboard-rhel9:3.18-7
 quay.io/devspaces/idea-rhel9:3.18-2
 quay.io/devspaces/imagepuller-rhel9:3.18-1
 quay.io/devspaces/machineexec-rhel9:3.18-2
