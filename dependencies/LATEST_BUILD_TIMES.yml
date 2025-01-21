@@ -14434,3 +14434,21 @@
   timeWait: 0 mins
   timeBuild: 5 mins
   timeTotal: 5 mins
+- name: devspaces-pluginregistry-rhel9
+  tag: 3.18-5
+  taskId: 66433251
+  timeCreate: Tue Jan 21 11:37:02 2025
+  timeStart: Tue Jan 21 11:37:59 2025
+  timeFinish: Tue Jan 21 12:39:28 2025
+  timeWait: 0 mins
+  timeBuild: 61 mins
+  timeTotal: 62 mins
+- name: devspaces-operator-bundle
+  tag: 3.18-31
+  taskId: 66433836
+  timeCreate: Tue Jan 21 12:53:36 2025
+  timeStart: Tue Jan 21 12:53:52 2025
+  timeFinish: Tue Jan 21 12:59:35 2025
+  timeWait: 0 mins
+  timeBuild: 5 mins
+  timeTotal: 5 mins
