@@ -1,8 +1,8 @@
 devspaces-code-rhel9-container-3.19-13
 devspaces-configbump-rhel9-container-3.19-2
 devspaces-rhel9-operator-container-3.19-5
-devspaces-operator-bundle-container-3.19-1
-devspaces-dashboard-rhel9-container-3.19-9
+devspaces-operator-bundle-container-3.19-2
+devspaces-dashboard-rhel9-container-3.19-10
 devspaces-idea-rhel9-container-3.19-1
 devspaces-machineexec-rhel9-container-3.19-2
 devspaces-pluginregistry-rhel9-container-3.19-4
