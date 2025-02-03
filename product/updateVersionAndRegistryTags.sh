@@ -276,7 +276,7 @@ updatePluginRegistry() {
     TEMPLATE_FILE="${REG_ROOT}/deploy/openshift/devspaces-plugin-registry.yaml"
 
     # update '.parameters[]|select(.name=="IMAGE_TAG")|.value' ==> 3.yy
-    yq -yi "(.parameters[] | select(.name == \"IMAGE_TAG\") | .value ) = \"${DEVSPACES_VERSION}\"" "${TEMPLATE_FILE}"
+    yq -i "(.parameters[] | select(.name == \"IMAGE_TAG\") | .value ) = \"${DEVSPACES_VERSION}\"" "${TEMPLATE_FILE}"
 
     git diff -q "${YAML_ROOT}" "${TEMPLATE_FILE}" || true
 }
