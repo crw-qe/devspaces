@@ -1,8 +1,8 @@
 
-quay.io/devspaces/code-rhel9:3.19-13
-     NVR: devspaces-code-rhel9-container-3.19-13
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3483054
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-code/commit?id=0a0ee973c254cdc7efe25d09beca06d2fb6ce819
+quay.io/devspaces/code-rhel9:3.19-14
+     NVR: devspaces-code-rhel9-container-3.19-14
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3490789
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-code/commit?id=ca97ef1bfdf6ccebd8d81bb0aca53efd8d16344f
 
 quay.io/devspaces/configbump-rhel9:3.19-2
      NVR: devspaces-configbump-rhel9-container-3.19-2
@@ -14,9 +14,9 @@ quay.io/devspaces/devspaces-rhel9-operator:3.19-5
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3481064
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=8bbc672f23b94fcd929943b09c292cf4223fd208
 
-quay.io/devspaces/devspaces-operator-bundle:3.19-2
-     NVR: devspaces-operator-bundle-container-3.19-2
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3492252
+quay.io/devspaces/devspaces-operator-bundle:3.19-3
+     NVR: devspaces-operator-bundle-container-3.19-3
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3492528
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=da7b9eab66163b7e59ae56b053f288d346779230
 
 quay.io/devspaces/dashboard-rhel9:3.19-10

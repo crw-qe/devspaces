@@ -1,9 +1,9 @@
 {
     "Images": {
-        "quay.io/devspaces/code-rhel9:3.19-13": {"Created": "2025-01-27T12:29:03.205782056Z", "Digest": "820abfdcb1ba9031a2279ec68ec87ff1fcaead8717bdd3bf5c4f35da9ca4020f", "Image": "quay.io/devspaces/code-rhel9:3.19-13"},
+        "quay.io/devspaces/code-rhel9:3.19-14": {"Created": "2025-02-03T17:03:40.81416164Z", "Digest": "25258806d929613dc802ff40e25b26669b42dc362a87c3c52135fddff918b856", "Image": "quay.io/devspaces/code-rhel9:3.19-14"},
         "quay.io/devspaces/configbump-rhel9:3.19-2": {"Created": "2024-12-12T21:32:33.691082542Z", "Digest": "78ff090cad2f9ab4d0a4cd91392c6f9800ef58303b5b83aebb4314f9bbe3d758", "Image": "quay.io/devspaces/configbump-rhel9:3.19-2"},
         "quay.io/devspaces/devspaces-rhel9-operator:3.19-5": {"Created": "2025-01-24T16:02:34.532156409Z", "Digest": "23e4a1cc1693ce38e82391bc47ef1f882a5512d6451aaf31a829118154bf2a77", "Image": "quay.io/devspaces/devspaces-rhel9-operator:3.19-5"},
-        "quay.io/devspaces/devspaces-operator-bundle:3.19-2": {"Created": "2025-02-03T16:28:18.428536443Z", "Digest": "1e58956abd643c49a12e91dc857a06e3f103ac437ab09f1dd3ebe67919ccb13c", "Image": "quay.io/devspaces/devspaces-operator-bundle:3.19-2"},
+        "quay.io/devspaces/devspaces-operator-bundle:3.19-3": {"Created": "2025-02-03T19:47:03.238718914Z", "Digest": "14b050ddb992381b5ed25196c76faf1e7bb2d4324bbc98e040af2094ef010085", "Image": "quay.io/devspaces/devspaces-operator-bundle:3.19-3"},
         "quay.io/devspaces/dashboard-rhel9:3.19-10": {"Created": "2025-02-03T15:54:57.477538703Z", "Digest": "59b455f8f763efdd12f4ecbdabda425bef5a9ba18465fb6abf9c9f59c82113a9", "Image": "quay.io/devspaces/dashboard-rhel9:3.19-10"},
         "quay.io/devspaces/idea-rhel9:3.19-1": {"Created": "2024-12-21T04:53:22.937259197Z", "Digest": "8a64d91e6eed539c17c516462724a01c1a901837e4419b4fea1249b7dd1c228d", "Image": "quay.io/devspaces/idea-rhel9:3.19-1"},
         "quay.io/devspaces/machineexec-rhel9:3.19-2": {"Created": "2025-01-23T17:20:10.814351411Z", "Digest": "9000d54bc56675ee5e98a0406ef33796d0f27f52bd5e95b1c6a4c04223e92091", "Image": "quay.io/devspaces/machineexec-rhel9:3.19-2"},
