@@ -487,15 +487,15 @@
       },
       "3.18": {
         "CSV_VERSION": "3.18.1",
-        "CSV_VERSION_PREV": "3.17.0"
+        "CSV_VERSION_PREV": "3.18.0"
       },
       "3.19": {
         "CSV_VERSION": "3.19.0",
-        "CSV_VERSION_PREV": "3.17.0"
+        "CSV_VERSION_PREV": "3.18.0"
       },
       "3.x": {
         "CSV_VERSION": "3.19.0",
-        "CSV_VERSION_PREV": "3.17.0"
+        "CSV_VERSION_PREV": "3.18.0"
       }
     }
   },
