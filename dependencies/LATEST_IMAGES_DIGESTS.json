@@ -1,9 +1,9 @@
 {
     "Images": {
-        "quay.io/devspaces/code-rhel9:3.18-6": {"Created": "2025-01-10T22:34:23.85355046Z", "Digest": "99f2e3cca426dfe118c27e513faf2c2d2a24689c778d101c99ebbbdc912fa850", "Image": "quay.io/devspaces/code-rhel9:3.18-6"},
+        "quay.io/devspaces/code-rhel9:3.18-7": {"Created": "2025-02-05T01:18:58.765221469Z", "Digest": "f6ddbdbd80cd0905f5238cb26f53d1bde5b006fcf45e5017af0152d255ef2427", "Image": "quay.io/devspaces/code-rhel9:3.18-7"},
         "quay.io/devspaces/configbump-rhel9:3.18-1": {"Created": "2024-12-05T22:18:04.940064356Z", "Digest": "c5506b7ac82a1a4a949e0a600fcb0a129bb480db4160b495e472b0627a25e94b", "Image": "quay.io/devspaces/configbump-rhel9:3.18-1"},
         "quay.io/devspaces/devspaces-rhel9-operator:3.18-18": {"Created": "2024-11-21T09:31:19.283919683Z", "Digest": "9aaf272003f84c3d7ca87c8a3468ea298448775da5ce392c19d458ce78bb25c6", "Image": "quay.io/devspaces/devspaces-rhel9-operator:3.18-18"},
-        "quay.io/devspaces/devspaces-operator-bundle:3.18-37": {"Created": "2025-02-05T00:30:16.298775791Z", "Digest": "03a3d8fbd516600ccfffcd966000546811834658c291865dceab6141dbac2703", "Image": "quay.io/devspaces/devspaces-operator-bundle:3.18-37"},
+        "quay.io/devspaces/devspaces-operator-bundle:3.18-38": {"Created": "2025-02-05T04:08:21.145264048Z", "Digest": "7f6afee06e3f9b67020af6514bc1d8b14540dda8e9a136d562b8b4d2605a9e64", "Image": "quay.io/devspaces/devspaces-operator-bundle:3.18-38"},
         "quay.io/devspaces/dashboard-rhel9:3.18-10": {"Created": "2025-01-24T17:17:10.716319487Z", "Digest": "82b428c928c5bb00203ddf093a470f62f99e878e785df2f9ca0567350311ec02", "Image": "quay.io/devspaces/dashboard-rhel9:3.18-10"},
         "quay.io/devspaces/idea-rhel9:3.18-2": {"Created": "2024-12-21T04:52:31.794817668Z", "Digest": "550f5b9832ce81dccaec949ff9e6a899dff3f8f1dd53cb2b4b332e897bc29db0", "Image": "quay.io/devspaces/idea-rhel9:3.18-2"},
         "quay.io/devspaces/imagepuller-rhel9:3.18-1": {"Created": "2024-12-09T18:59:34.208406327Z", "Digest": "ce0a0b6c1fa9318c3d9cd03b881a35a16dba2d639e9a83590c53eb6bd86f36f8", "Image": "quay.io/devspaces/imagepuller-rhel9:3.18-1"},
