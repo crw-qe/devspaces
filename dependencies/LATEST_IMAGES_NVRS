@@ -1,7 +1,7 @@
 devspaces-code-rhel9-container-3.18-7
 devspaces-configbump-rhel9-container-3.18-1
 devspaces-configbump-rhel9-container-3.18-1.1738661153
-devspaces-operator-bundle-container-3.18-38
+devspaces-operator-bundle-container-3.18-39
 devspaces-dashboard-rhel9-container-3.18-10
 devspaces-dashboard-rhel9-container-3.18-10.1738661152
 devspaces-idea-rhel9-container-3.18-2
@@ -15,7 +15,4 @@ devspaces-server-rhel9-container-3.18-2
 devspaces-server-rhel9-container-3.18-2.1738661147
 devspaces-traefik-rhel9-container-3.18-1
 devspaces-traefik-rhel9-container-3.18-1.1738661146
-devspaces-udi-rhel9-container-3.18-1
-devspaces-udi-rhel9-container-3.18-1.1738631620
-devspaces-udi-rhel9-container-3.18-1.1738660740
-devspaces-udi-rhel9-container-3.18-1.1738661143
+devspaces-udi-rhel9-container-3.18-2
