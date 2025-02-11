@@ -78,6 +78,7 @@ devspaces/devspaces-operator-bundle \
 devspaces/dashboard-rhel9 \
 \
 devspaces/idea-rhel9 \
+devspaces/jetbrains-ide-rhel9 \
 devspaces/imagepuller-rhel9 \
 devspaces/machineexec-rhel9 \
 devspaces/pluginregistry-rhel9 \

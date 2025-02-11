@@ -221,6 +221,7 @@ if [[ "${pkgs_devel_branch}" ]] && [[ "${CSV_VERSION}" ]]; then
 	devspaces-configbump \
 	devspaces-dashboard \
 	devspaces-idea \
+	devspaces-jetbrains-ide \
 	devspaces-imagepuller \
 	\
 	devspaces-machineexec \

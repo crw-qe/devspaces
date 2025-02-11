@@ -83,6 +83,7 @@ if [[ $PHASES == *"1"* ]]; then
         devspaces-configbump \
         devspaces-dashboard \
         devspaces-idea \
+        devspaces-jetbrains-ide \
         devspaces-imagepuller \
         devspaces-machineexec \
         devspaces-operator \
