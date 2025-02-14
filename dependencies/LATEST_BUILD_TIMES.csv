@@ -1603,3 +1603,6 @@
 "devspaces-imagepuller-rhel9","3.19-1",66609738,"Fri Feb 7 19:24:04 2025","Fri Feb 7 19:24:29 2025","Fri Feb 7 19:49:11 2025","0 mins","24 mins","25 mins"
 "devspaces-code-rhel9","3.19-16",66613928,"Sat Feb 8 04:33:17 2025","Sat Feb 8 04:33:38 2025","Sat Feb 8 09:36:30 2025","0 mins","302 mins","303 mins"
 "devspaces-operator-bundle","3.19-5",66637021,"Mon Feb 10 16:25:12 2025","Mon Feb 10 16:25:21 2025","Mon Feb 10 16:28:51 2025","0 mins","3 mins","3 mins"
+"devspaces-configbump-rhel9","3.19-4",66674885,"Wed Feb 12 13:18:04 2025","Wed Feb 12 14:22:12 2025","Wed Feb 12 14:47:12 2025","64 mins","25 mins","89 mins"
+"devspaces-dashboard-rhel9","3.19-14",66691978,"Thu Feb 13 13:42:23 2025","Thu Feb 13 13:42:52 2025","Thu Feb 13 14:13:34 2025","0 mins","30 mins","31 mins"
+"devspaces-operator-bundle","3.19-7",66708985,"Fri Feb 14 16:24:08 2025","Fri Feb 14 16:24:49 2025","Fri Feb 14 16:28:20 2025","0 mins","3 mins","4 mins"

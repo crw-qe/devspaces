@@ -14434,3 +14434,30 @@
   timeWait: 0 mins
   timeBuild: 3 mins
   timeTotal: 3 mins
+- name: devspaces-configbump-rhel9
+  tag: 3.19-4
+  taskId: 66674885
+  timeCreate: Wed Feb 12 13:18:04 2025
+  timeStart: Wed Feb 12 14:22:12 2025
+  timeFinish: Wed Feb 12 14:47:12 2025
+  timeWait: 64 mins
+  timeBuild: 25 mins
+  timeTotal: 89 mins
+- name: devspaces-dashboard-rhel9
+  tag: 3.19-14
+  taskId: 66691978
+  timeCreate: Thu Feb 13 13:42:23 2025
+  timeStart: Thu Feb 13 13:42:52 2025
+  timeFinish: Thu Feb 13 14:13:34 2025
+  timeWait: 0 mins
+  timeBuild: 30 mins
+  timeTotal: 31 mins
+- name: devspaces-operator-bundle
+  tag: 3.19-7
+  taskId: 66708985
+  timeCreate: Fri Feb 14 16:24:08 2025
+  timeStart: Fri Feb 14 16:24:49 2025
+  timeFinish: Fri Feb 14 16:28:20 2025
+  timeWait: 0 mins
+  timeBuild: 3 mins
+  timeTotal: 4 mins
