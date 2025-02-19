@@ -14515,3 +14515,30 @@
   timeWait: 0 mins
   timeBuild: 4 mins
   timeTotal: 4 mins
+- name: devspaces-udi-rhel9
+  tag: 3.19-3.1739932718
+  taskId: 66745598
+  timeCreate: Tue Feb 18 21:38:39 2025
+  timeStart: Tue Feb 18 21:39:03 2025
+  timeFinish: Tue Feb 18 22:57:01 2025
+  timeWait: 0 mins
+  timeBuild: 77 mins
+  timeTotal: 78 mins
+- name: devspaces-dashboard-rhel9
+  tag: 3.19-17
+  taskId: 66756592
+  timeCreate: Wed Feb 19 12:20:45 2025
+  timeStart: Wed Feb 19 12:28:20 2025
+  timeFinish: Wed Feb 19 13:00:02 2025
+  timeWait: 7 mins
+  timeBuild: 31 mins
+  timeTotal: 39 mins
+- name: devspaces-operator-bundle
+  tag: 3.19-11
+  taskId: 66757506
+  timeCreate: Wed Feb 19 13:15:21 2025
+  timeStart: Wed Feb 19 14:59:14 2025
+  timeFinish: Wed Feb 19 15:08:45 2025
+  timeWait: 103 mins
+  timeBuild: 9 mins
+  timeTotal: 113 mins

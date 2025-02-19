@@ -1,11 +1,12 @@
 devspaces-code-rhel9-container-3.19-16
 devspaces-configbump-rhel9-container-3.19-4
 devspaces-rhel9-operator-container-3.19-7
-devspaces-operator-bundle-container-3.19-10
-devspaces-dashboard-rhel9-container-3.19-16
+devspaces-operator-bundle-container-3.19-11
+devspaces-dashboard-rhel9-container-3.19-17
 devspaces-idea-rhel9-container-3.19-2
 devspaces-imagepuller-rhel9-container-3.19-1
 devspaces-pluginregistry-rhel9-container-3.19-5
 devspaces-server-rhel9-container-3.19-6
 devspaces-traefik-rhel9-container-3.19-2
 devspaces-udi-rhel9-container-3.19-3
+devspaces-udi-rhel9-container-3.19-3.1739932718

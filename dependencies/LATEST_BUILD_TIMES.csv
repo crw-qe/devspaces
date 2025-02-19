@@ -1612,3 +1612,6 @@
 "devspaces-operator-bundle","3.19-9",66729296,"Mon Feb 17 15:07:42 2025","Mon Feb 17 15:22:55 2025","Mon Feb 17 15:28:00 2025","15 mins","5 mins","20 mins"
 "devspaces-dashboard-rhel9","3.19-16",66729905,"Mon Feb 17 15:56:52 2025","Mon Feb 17 15:57:45 2025","Mon Feb 17 16:30:45 2025","0 mins","33 mins","33 mins"
 "devspaces-operator-bundle","3.19-10",66730455,"Mon Feb 17 16:46:14 2025","Mon Feb 17 16:46:36 2025","Mon Feb 17 16:50:50 2025","0 mins","4 mins","4 mins"
+"devspaces-udi-rhel9","3.19-3.1739932718",66745598,"Tue Feb 18 21:38:39 2025","Tue Feb 18 21:39:03 2025","Tue Feb 18 22:57:01 2025","0 mins","77 mins","78 mins"
+"devspaces-dashboard-rhel9","3.19-17",66756592,"Wed Feb 19 12:20:45 2025","Wed Feb 19 12:28:20 2025","Wed Feb 19 13:00:02 2025","7 mins","31 mins","39 mins"
+"devspaces-operator-bundle","3.19-11",66757506,"Wed Feb 19 13:15:21 2025","Wed Feb 19 14:59:14 2025","Wed Feb 19 15:08:45 2025","103 mins","9 mins","113 mins"
