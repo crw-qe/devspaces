@@ -14596,3 +14596,12 @@
   timeWait: 15 mins
   timeBuild: 6 mins
   timeTotal: 22 mins
+- name: devspaces-operator-bundle
+  tag: 3.19-14
+  taskId: 66773930
+  timeCreate: Thu Feb 20 13:52:28 2025
+  timeStart: Thu Feb 20 15:04:48 2025
+  timeFinish: Thu Feb 20 15:09:16 2025
+  timeWait: 72 mins
+  timeBuild: 4 mins
+  timeTotal: 76 mins
