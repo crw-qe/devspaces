@@ -1,22 +1,22 @@
 
-quay.io/devspaces/code-rhel9:3.19-18
-     NVR: devspaces-code-rhel9-container-3.19-18
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528144
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-code/commit?id=e561c0edfd8a8a3f1ec7eb38605ed0fcc49f8f43
+quay.io/devspaces/code-rhel9:3.19-19
+     NVR: devspaces-code-rhel9-container-3.19-19
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528271
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-code/commit?id=eadecbb553aff8e4bd60b4c5194f2719c2b4093f
 
 quay.io/devspaces/configbump-rhel9:3.19-4
      NVR: devspaces-configbump-rhel9-container-3.19-4
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3506307
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-configbump/commit?id=8d21ce25940f2a6d7b0a8cdd55d5241cdc6295a4
 
-quay.io/devspaces/devspaces-rhel9-operator:3.19-7
-     NVR: devspaces-rhel9-operator-container-3.19-7
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3497755
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=01341358e45c0c59ad6adb65802c3f2d929fd22e
+quay.io/devspaces/devspaces-rhel9-operator:3.19-8
+     NVR: devspaces-rhel9-operator-container-3.19-8
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528952
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=6a7cab59f675646b9c8298d645de7f2bab4e4b07
 
-quay.io/devspaces/devspaces-operator-bundle:3.19-18
-     NVR: devspaces-operator-bundle-container-3.19-18
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528680
+quay.io/devspaces/devspaces-operator-bundle:3.19-19
+     NVR: devspaces-operator-bundle-container-3.19-19
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3529048
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=221916ce330bfdc07372406963130c4198639804
 
 quay.io/devspaces/dashboard-rhel9:3.19-18
