@@ -14632,6 +14632,15 @@
   timeWait: 0 mins
   timeBuild: 4 mins
   timeTotal: 4 mins
+- name: devspaces-code-rhel9
+  tag: 3.19-18
+  taskId: 66804427
+  timeCreate: Tue Feb 25 14:27:11 2025
+  timeStart: Tue Feb 25 14:27:21 2025
+  timeFinish: Tue Feb 25 20:07:55 2025
+  timeWait: 0 mins
+  timeBuild: 340 mins
+  timeTotal: 340 mins
 - name: devspaces-machineexec-rhel9
   tag: 3.19-3
   taskId: 66804953
@@ -14650,3 +14659,21 @@
   timeWait: 0 mins
   timeBuild: 12 mins
   timeTotal: 12 mins
+- name: devspaces-idea-rhel9
+  tag: 3.19-3
+  taskId: 66805887
+  timeCreate: Tue Feb 25 17:04:25 2025
+  timeStart: Tue Feb 25 18:27:42 2025
+  timeFinish: Tue Feb 25 18:48:04 2025
+  timeWait: 83 mins
+  timeBuild: 20 mins
+  timeTotal: 103 mins
+- name: devspaces-operator-bundle
+  tag: 3.19-18
+  taskId: 66807088
+  timeCreate: Tue Feb 25 19:08:54 2025
+  timeStart: Tue Feb 25 20:15:05 2025
+  timeFinish: Tue Feb 25 20:20:47 2025
+  timeWait: 66 mins
+  timeBuild: 5 mins
+  timeTotal: 71 mins

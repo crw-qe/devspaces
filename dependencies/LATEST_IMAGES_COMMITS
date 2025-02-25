@@ -1,8 +1,8 @@
 
-quay.io/devspaces/code-rhel9:3.19-17
-     NVR: devspaces-code-rhel9-container-3.19-17
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3521637
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-code/commit?id=cbe663f98516a35b9848be78e5478079b6300927
+quay.io/devspaces/code-rhel9:3.19-18
+     NVR: devspaces-code-rhel9-container-3.19-18
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528144
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-code/commit?id=e561c0edfd8a8a3f1ec7eb38605ed0fcc49f8f43
 
 quay.io/devspaces/configbump-rhel9:3.19-4
      NVR: devspaces-configbump-rhel9-container-3.19-4
@@ -14,9 +14,9 @@ quay.io/devspaces/devspaces-rhel9-operator:3.19-7
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3497755
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=01341358e45c0c59ad6adb65802c3f2d929fd22e
 
-quay.io/devspaces/devspaces-operator-bundle:3.19-17
-     NVR: devspaces-operator-bundle-container-3.19-17
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528276
+quay.io/devspaces/devspaces-operator-bundle:3.19-18
+     NVR: devspaces-operator-bundle-container-3.19-18
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528680
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=221916ce330bfdc07372406963130c4198639804
 
 quay.io/devspaces/dashboard-rhel9:3.19-18
@@ -24,10 +24,10 @@ quay.io/devspaces/dashboard-rhel9:3.19-18
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3522033
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-dashboard/commit?id=85b858c9ac7fde0e059741dd8e942b4ade45a096
 
-quay.io/devspaces/idea-rhel9:3.19-2
-     NVR: devspaces-idea-rhel9-container-3.19-2
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3514058
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-idea/commit?id=be72d8300474c384ae33711fdcbc1d880b7651e5
+quay.io/devspaces/idea-rhel9:3.19-3
+     NVR: devspaces-idea-rhel9-container-3.19-3
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528587
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-idea/commit?id=265b5321c010eb7499a96fadcc01acf0f5cc4d64
 
 quay.io/devspaces/imagepuller-rhel9:3.19-1
      NVR: devspaces-imagepuller-rhel9-container-3.19-1
