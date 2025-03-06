@@ -1643,3 +1643,5 @@
 "devspaces-operator-bundle","3.19-24",66859337,"Mon Mar 3 13:44:45 2025","Mon Mar 3 13:45:24 2025","Mon Mar 3 13:49:40 2025","0 mins","4 mins","4 mins"
 "devspaces-code-rhel9","3.19-20",66872935,"Tue Mar 4 15:03:23 2025","Tue Mar 4 15:36:22 2025","Tue Mar 4 20:47:23 2025","32 mins","311 mins","344 mins"
 "devspaces-operator-bundle","3.19-25",66877016,"Tue Mar 4 20:59:35 2025","Tue Mar 4 21:00:01 2025","Tue Mar 4 21:05:08 2025","0 mins","5 mins","5 mins"
+"devspaces-server-rhel9","3.19-10",66902188,"Thu Mar 6 10:46:52 2025","Thu Mar 6 10:47:32 2025","Thu Mar 6 11:00:40 2025","0 mins","13 mins","13 mins"
+"devspaces-operator-bundle","3.19-26",66903400,"Thu Mar 6 13:13:36 2025","Thu Mar 6 13:14:14 2025","Thu Mar 6 13:19:38 2025","0 mins","5 mins","6 mins"
