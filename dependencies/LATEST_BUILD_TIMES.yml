@@ -14812,3 +14812,21 @@
   timeWait: 0 mins
   timeBuild: 5 mins
   timeTotal: 6 mins
+- name: devspaces-server-rhel9
+  tag: 3.19-11
+  taskId: 66925403
+  timeCreate: Mon Mar 10 04:09:36 2025
+  timeStart: Mon Mar 10 04:16:43 2025
+  timeFinish: Mon Mar 10 04:30:13 2025
+  timeWait: 7 mins
+  timeBuild: 13 mins
+  timeTotal: 20 mins
+- name: devspaces-operator-bundle
+  tag: 3.19-27
+  taskId: 66925707
+  timeCreate: Mon Mar 10 04:49:18 2025
+  timeStart: Mon Mar 10 04:49:28 2025
+  timeFinish: Mon Mar 10 04:59:57 2025
+  timeWait: 0 mins
+  timeBuild: 10 mins
+  timeTotal: 10 mins

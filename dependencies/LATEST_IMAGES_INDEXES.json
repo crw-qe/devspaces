@@ -2,33 +2,33 @@
     "Indexes": {
         "operator-bundle": {
             "3.19": {
-                "v4.14": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:932694",
-                    "iibTag": "932694"
-                },
                 "v4.15": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:932695",
-                    "iibTag": "932695"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:933996",
+                    "iibTag": "933996"
                 },
                 "v4.16": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:932696",
-                    "iibTag": "932696"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:933997",
+                    "iibTag": "933997"
                 },
                 "v4.19": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:932697",
-                    "iibTag": "932697"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:933998",
+                    "iibTag": "933998"
                 },
                 "v4.18": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:932698",
-                    "iibTag": "932698"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:933999",
+                    "iibTag": "933999"
+                },
+                "v4.14": {
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:934000",
+                    "iibTag": "934000"
                 },
                 "v4.17": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:932699",
-                    "iibTag": "932699"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:934001",
+                    "iibTag": "934001"
                 },
-                "OSBSImage": "registry-proxy.engineering.redhat.com/rh-osbs/devspaces-devspaces-operator-bundle:3.19-26",
-                "quayImage": "quay.io/devspaces/devspaces-operator-bundle:3.19-26",
-                "tag": "3.19-26"
+                "OSBSImage": "registry-proxy.engineering.redhat.com/rh-osbs/devspaces-devspaces-operator-bundle:3.19-27",
+                "quayImage": "quay.io/devspaces/devspaces-operator-bundle:3.19-27",
+                "tag": "3.19-27"
             }
         }
     }
