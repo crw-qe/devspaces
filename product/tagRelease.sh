@@ -135,6 +135,7 @@ updateSampleDevfileReferences () {
 pushBranchAndOrTagGH () {
 	d="$1"
 	org="$2"
+	isSample="${3:-false}"
 	echo; echo "== $d =="
 	# if source_branch defined and target branch doesn't exist yet, check out the source branch
 	if [[ ${SOURCE_BRANCH} ]] && [[ $(git ls-remote --heads "https://github.com/${org}/${d}" "${TARGET_BRANCH}") == "" ]]; then
@@ -146,8 +147,8 @@ pushBranchAndOrTagGH () {
 		git clone -q --depth 1 -b "${clone_branch}" "https://github.com/${org}/${d}" "projects_${d}"
 		pushd "/tmp/tmp-checkouts/projects_${d}" >/dev/null || exit 1
 			export GITHUB_TOKEN="${GITHUB_TOKEN}"
-			git config user.email "nickboldt+devstudio-release@gmail.com"
-			git config user.name "Red Hat Devstudio Release Bot"
+			git config user.email "devspacesbuild@redhat.com"
+			git config user.name "devspacesbuild"
 			git config --global push.default matching
 			git config --global hub.protocol https
 			git remote set-url origin "https://${GITHUB_TOKEN}:x-oauth-basic@github.com/${org}/${d}"
@@ -170,7 +171,7 @@ pushBranchAndOrTagGH () {
 		fi
 
 		# for the devspaces sample repos, update devfiles to point to the correct tag/branch
-		if [[ $org == "${samplesRepo}" ]]; then
+		if [[ "$isSample" == "sample" ]]; then
 			updateSampleDevfileReferences
 		fi
 
@@ -257,7 +258,6 @@ c-plus-plus \
 dotnet-web-simple \
 golang-health-check \
 lombok-project-sample \
-nodejs-mongodb-sample \
 php-hello-world \
 python-hello-world \
 quarkus-quickstarts \
@@ -266,11 +266,14 @@ web-nodejs-sample \
 
 # create branches for devspaces samples, located under https://github.com/${samplesRepo}/
 for s in $sampleprojects; do
-	pushBranchAndOrTagGH "$s" ${samplesRepo}
+	pushBranchAndOrTagGH "$s" ${samplesRepo} "sample"
 done
 
 # create a branch for ansible-devspaces-demo, located under https://github.com/redhat-developer-demos
-pushBranchAndOrTagGH "ansible-devspaces-demo" "redhat-developer-demos"
+pushBranchAndOrTagGH "ansible-devspaces-demo" "redhat-developer-demos" "sample"
+
+# create a branch for https://github.com/jbossas/eap-devfile-examples
+pushBranchAndOrTagGH "jbossas" "eap-devfile-examples" "sample"
 
 # update PNC build-configs, only if performing branching operation (not when tagging)
 if [[ ${SOURCE_BRANCH} ]]; then
