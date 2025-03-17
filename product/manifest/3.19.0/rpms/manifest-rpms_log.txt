@@ -1,0 +1,62 @@
+[INFO] Compute list of latest devspaces-3.19-rhel-9-container-candidate NVRs ... 
+
+[INFO] NVRs to query for installed rpms:
+   devspaces-code-rhel9-container-3.19-20
+   devspaces-configbump-rhel9-container-3.19-4
+   devspaces-rhel9-operator-container-3.19-9
+   devspaces-operator-bundle-container-3.19-28
+   devspaces-dashboard-rhel9-container-3.19-18
+   devspaces-idea-rhel9-container-3.19-3
+   devspaces-imagepuller-rhel9-container-3.19-1
+   devspaces-machineexec-rhel9-container-3.19-3
+   devspaces-pluginregistry-rhel9-container-3.19-6
+   devspaces-server-rhel9-container-3.19-11
+   devspaces-traefik-rhel9-container-3.19-2
+   devspaces-udi-rhel9-container-3.19-6
+
+[INFO] Brew logs:
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-code-rhel9-container/3.19/20/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-configbump-rhel9-container/3.19/4/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-rhel9-operator-container/3.19/9/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-operator-bundle-container/3.19/28/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-dashboard-rhel9-container/3.19/18/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-idea-rhel9-container/3.19/3/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-imagepuller-rhel9-container/3.19/1/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-machineexec-rhel9-container/3.19/3/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-pluginregistry-rhel9-container/3.19/6/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-server-rhel9-container/3.19/11/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-traefik-rhel9-container/3.19/2/data/logs/x86_64-build.log
+   https://download.eng.bos.redhat.com/brewroot/packages/devspaces-udi-rhel9-container/3.19/6/data/logs/x86_64-build.log
+
+[INFO] NVR build IDs:
+   devspaces-code-rhel9-container-3.19-20 [3539074] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3539074
+   devspaces-configbump-rhel9-container-3.19-4 [3506307] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3506307
+   devspaces-rhel9-operator-container-3.19-9 [3529762] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3529762
+   devspaces-operator-bundle-container-3.19-28 [3546756] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3546756
+   devspaces-dashboard-rhel9-container-3.19-18 [3522033] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3522033
+   devspaces-idea-rhel9-container-3.19-3 [3528587] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528587
+   devspaces-imagepuller-rhel9-container-3.19-1 [3459883] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3459883
+   devspaces-machineexec-rhel9-container-3.19-3 [3528234] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3528234
+   devspaces-pluginregistry-rhel9-container-3.19-6 [3521802] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3521802
+   devspaces-server-rhel9-container-3.19-11 [3546592] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3546592
+   devspaces-traefik-rhel9-container-3.19-2 [3497821] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3497821
+   devspaces-udi-rhel9-container-3.19-6 [3525597] - https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3525597
+
+[INFO] Overall RPM manifest is in file: /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms.txt
+[INFO] Unique RPM manifest is in file: /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms_uniq.txt
+[INFO] Long RPM log is in file: /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms_log.txt
+
+[INFO] Individual RPM manifests:
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-code-rhel9-container-3.19-20.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-configbump-rhel9-container-3.19-4.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-rhel9-operator-container-3.19-9.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-operator-bundle-container-3.19-28.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-dashboard-rhel9-container-3.19-18.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-idea-rhel9-container-3.19-3.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-imagepuller-rhel9-container-3.19-1.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-machineexec-rhel9-container-3.19-3.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-pluginregistry-rhel9-container-3.19-6.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-server-rhel9-container-3.19-11.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-traefik-rhel9-container-3.19-2.txt
+* /mnt/hudson_workspace/workspace/DS_CI/Releng/get-3rd-party-deps-manifests/3.19.0/rpms/manifest-rpms-devspaces-udi-rhel9-container-3.19-6.txt
+
