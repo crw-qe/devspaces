@@ -273,7 +273,7 @@ done
 pushBranchAndOrTagGH "ansible-devspaces-demo" "redhat-developer-demos" "sample"
 
 # create a branch for https://github.com/jbossas/eap-devfile-examples
-pushBranchAndOrTagGH "jbossas" "eap-devfile-examples" "sample"
+pushBranchAndOrTagGH "eap-devfile-examples" "jbossas" "sample"
 
 # update PNC build-configs, only if performing branching operation (not when tagging)
 if [[ ${SOURCE_BRANCH} ]]; then
