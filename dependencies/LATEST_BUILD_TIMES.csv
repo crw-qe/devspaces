@@ -1606,3 +1606,5 @@
 "devspaces-dashboard-rhel9","3.20-6",67078270,"Fri Mar 21 19:28:27 2025","Fri Mar 21 19:29:04 2025","Fri Mar 21 19:53:12 2025","0 mins","24 mins","24 mins"
 "devspaces-code-rhel9","3.20-1",67090904,"Mon Mar 24 11:34:36 2025","Mon Mar 24 11:35:19 2025","Mon Mar 24 17:31:52 2025","0 mins","356 mins","357 mins"
 "devspaces-operator-bundle","3.20-1",67095077,"Mon Mar 24 18:46:12 2025","Mon Mar 24 18:46:26 2025","Mon Mar 24 18:51:34 2025","0 mins","5 mins","5 mins"
+"devspaces-operator","3.20-10",67099512,"Tue Mar 25 05:01:38 2025","Tue Mar 25 05:02:00 2025","Tue Mar 25 05:33:21 2025","0 mins","31 mins","31 mins"
+"devspaces-operator-bundle","3.20-2",67099874,"Tue Mar 25 05:42:13 2025","Tue Mar 25 05:42:46 2025","Tue Mar 25 05:49:49 2025","0 mins","7 mins","7 mins"
