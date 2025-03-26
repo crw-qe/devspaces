@@ -1,9 +1,9 @@
 {
     "Images": {
-        "quay.io/devspaces/code-rhel9:3.20-1": {"Created": "2025-03-24T18:34:20.559144516Z", "Digest": "e483f447d3ac6233e09ffc6eae9eb052a082005914ee2fde9a82486683ad7b52", "Image": "quay.io/devspaces/code-rhel9:3.20-1"},
+        "quay.io/devspaces/code-rhel9:3.20-2": {"Created": "2025-03-26T02:19:31.833668304Z", "Digest": "d39cac1096bf1b6f90a389fccb60ce7315a889b76c3d8c916494c2b78bd5ea85", "Image": "quay.io/devspaces/code-rhel9:3.20-2"},
         "quay.io/devspaces/configbump-rhel9:3.20-5": {"Created": "2025-03-19T16:17:16.808631278Z", "Digest": "5230b4724b5488934e8595b154461a0b641a17d7ac8b5eb8bb8c47ebfe07613b", "Image": "quay.io/devspaces/configbump-rhel9:3.20-5"},
         "quay.io/devspaces/devspaces-rhel9-operator:3.20-10": {"Created": "2025-03-25T09:24:51.201411371Z", "Digest": "09fc93e791a906e15a10c9e4eb84dda3e4cdff6c073cf367602092d40d6df467", "Image": "quay.io/devspaces/devspaces-rhel9-operator:3.20-10"},
-        "quay.io/devspaces/devspaces-operator-bundle:3.20-2": {"Created": "2025-03-25T09:45:39.276817491Z", "Digest": "6137cac4d592f80ae8924efc196ab3b29829e772f71d3112e385ad4040fcc528", "Image": "quay.io/devspaces/devspaces-operator-bundle:3.20-2"},
+        "quay.io/devspaces/devspaces-operator-bundle:3.20-3": {"Created": "2025-03-26T17:32:18.618050982Z", "Digest": "8852d9520f5ffd3968c1ea1f8aeb04fe49b42bacc14d71a58b9e2dec8e681b82", "Image": "quay.io/devspaces/devspaces-operator-bundle:3.20-3"},
         "quay.io/devspaces/dashboard-rhel9:3.20-6": {"Created": "2025-03-21T23:45:15.452460678Z", "Digest": "ee0868af5a547360838dccc1a6fd13f72d6f0750e190bf3ecdf29b6076369de1", "Image": "quay.io/devspaces/dashboard-rhel9:3.20-6"},
         "quay.io/devspaces/idea-rhel9:3.20-1": {"Created": "2025-03-19T16:31:09.201301722Z", "Digest": "0a758e67f8f14bb90aea4dfb1dba8ccc4f76ff42ed7af0fe4dbda7d2a26e046e", "Image": "quay.io/devspaces/idea-rhel9:3.20-1"},
         "quay.io/devspaces/jetbrains-ide-rhel9:3.20-6": {"Created": "2025-03-19T18:52:02.842796622Z", "Digest": "fb59721e27fb7bdd3cccd044579fbd9eb4ff90530b5ea4cddc447383cea4be14", "Image": "quay.io/devspaces/jetbrains-ide-rhel9:3.20-6"},
