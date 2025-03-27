@@ -14533,3 +14533,21 @@
   timeWait: 7 mins
   timeBuild: 6 mins
   timeTotal: 14 mins
+- name: devspaces-udi-rhel9
+  tag: 3.20-5
+  taskId: 67138352
+  timeCreate: Thu Mar 27 14:25:52 2025
+  timeStart: Thu Mar 27 15:16:31 2025
+  timeFinish: Thu Mar 27 16:34:34 2025
+  timeWait: 50 mins
+  timeBuild: 78 mins
+  timeTotal: 128 mins
+- name: devspaces-operator-bundle
+  tag: 3.20-7
+  taskId: 67139856
+  timeCreate: Thu Mar 27 16:51:20 2025
+  timeStart: Thu Mar 27 16:58:01 2025
+  timeFinish: Thu Mar 27 17:05:19 2025
+  timeWait: 6 mins
+  timeBuild: 7 mins
+  timeTotal: 13 mins
