@@ -14596,3 +14596,57 @@
   timeWait: 47 mins
   timeBuild: 6 mins
   timeTotal: 53 mins
+- name: devspaces-code-rhel9
+  tag: 3.20-5
+  taskId: 67217265
+  timeCreate: Thu Apr 3 05:31:08 2025
+  timeStart: Thu Apr 3 05:31:34 2025
+  timeFinish: Thu Apr 3 12:20:59 2025
+  timeWait: 0 mins
+  timeBuild: 409 mins
+  timeTotal: 409 mins
+- name: devspaces-dashboard-rhel9
+  tag: 3.20-7
+  taskId: 67226877
+  timeCreate: Thu Apr 3 12:33:12 2025
+  timeStart: Thu Apr 3 12:34:02 2025
+  timeFinish: Thu Apr 3 12:59:46 2025
+  timeWait: 0 mins
+  timeBuild: 25 mins
+  timeTotal: 26 mins
+- name: devspaces-jetbrains-ide-rhel9
+  tag: 3.20-7
+  taskId: 67226887
+  timeCreate: Thu Apr 3 12:34:30 2025
+  timeStart: Thu Apr 3 12:34:50 2025
+  timeFinish: Thu Apr 3 12:59:14 2025
+  timeWait: 0 mins
+  timeBuild: 24 mins
+  timeTotal: 24 mins
+- name: devspaces-idea-rhel9
+  tag: 3.20-2
+  taskId: 67226906
+  timeCreate: Thu Apr 3 12:38:51 2025
+  timeStart: Thu Apr 3 12:39:27 2025
+  timeFinish: Thu Apr 3 13:00:28 2025
+  timeWait: 0 mins
+  timeBuild: 21 mins
+  timeTotal: 21 mins
+- name: devspaces-server-rhel9
+  tag: 3.20-13
+  taskId: 67226932
+  timeCreate: Thu Apr 3 12:42:13 2025
+  timeStart: Thu Apr 3 12:42:31 2025
+  timeFinish: Thu Apr 3 12:55:22 2025
+  timeWait: 0 mins
+  timeBuild: 12 mins
+  timeTotal: 13 mins
+- name: devspaces-operator-bundle
+  tag: 3.20-11
+  taskId: 67227038
+  timeCreate: Thu Apr 3 13:09:20 2025
+  timeStart: Thu Apr 3 13:09:55 2025
+  timeFinish: Thu Apr 3 13:15:15 2025
+  timeWait: 0 mins
+  timeBuild: 5 mins
+  timeTotal: 5 mins
