@@ -14605,6 +14605,15 @@
   timeWait: 0 mins
   timeBuild: 409 mins
   timeTotal: 409 mins
+- name: devspaces-udi-rhel9
+  tag: 3.20-7
+  taskId: 67226831
+  timeCreate: Thu Apr 3 12:27:36 2025
+  timeStart: Thu Apr 3 12:28:00 2025
+  timeFinish: Thu Apr 3 13:52:25 2025
+  timeWait: 0 mins
+  timeBuild: 84 mins
+  timeTotal: 84 mins
 - name: devspaces-dashboard-rhel9
   tag: 3.20-7
   taskId: 67226877
@@ -14641,6 +14650,15 @@
   timeWait: 0 mins
   timeBuild: 12 mins
   timeTotal: 13 mins
+- name: devspaces-pluginregistry-rhel9
+  tag: 3.20-4
+  taskId: 67226982
+  timeCreate: Thu Apr 3 12:53:31 2025
+  timeStart: Thu Apr 3 12:53:56 2025
+  timeFinish: Thu Apr 3 14:00:17 2025
+  timeWait: 0 mins
+  timeBuild: 66 mins
+  timeTotal: 66 mins
 - name: devspaces-operator-bundle
   tag: 3.20-11
   taskId: 67227038
@@ -14650,3 +14668,12 @@
   timeWait: 0 mins
   timeBuild: 5 mins
   timeTotal: 5 mins
+- name: devspaces-operator-bundle
+  tag: 3.20-12
+  taskId: 67227532
+  timeCreate: Thu Apr 3 14:23:16 2025
+  timeStart: Thu Apr 3 14:44:33 2025
+  timeFinish: Thu Apr 3 14:50:47 2025
+  timeWait: 21 mins
+  timeBuild: 6 mins
+  timeTotal: 27 mins
