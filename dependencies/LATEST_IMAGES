@@ -1,13 +1,13 @@
 quay.io/devspaces/code-rhel9:3.20-5
 quay.io/devspaces/configbump-rhel9:3.20-5
 quay.io/devspaces/devspaces-rhel9-operator:3.20-10
-quay.io/devspaces/devspaces-operator-bundle:3.20-12
+quay.io/devspaces/devspaces-operator-bundle:3.20-15
 quay.io/devspaces/dashboard-rhel9:3.20-7
 quay.io/devspaces/idea-rhel9:3.20-2
 quay.io/devspaces/jetbrains-ide-rhel9:3.20-7
 quay.io/devspaces/imagepuller-rhel9:3.20-1
 quay.io/devspaces/machineexec-rhel9:3.20-3
-quay.io/devspaces/pluginregistry-rhel9:3.20-4
+quay.io/devspaces/pluginregistry-rhel9:3.20-5
 quay.io/devspaces/server-rhel9:3.20-13
 quay.io/devspaces/traefik-rhel9:3.20-1
 quay.io/devspaces/udi-rhel9:3.20-7
