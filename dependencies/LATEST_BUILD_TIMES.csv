@@ -1635,3 +1635,4 @@
 "devspaces-udi-rhel9","3.20-8",67253552,"Mon Apr 7 19:24:44 2025","Mon Apr 7 22:43:59 2025","Tue Apr 8 00:20:57 2025","199 mins","96 mins","296 mins"
 "devspaces-operator-bundle","3.20-15",67254535,"Mon Apr 7 21:43:45 2025","Mon Apr 7 23:44:59 2025","Tue Apr 8 00:08:40 2025","121 mins","23 mins","144 mins"
 "devspaces-operator-bundle","3.20-18",67257746,"Tue Apr 8 05:24:54 2025","Tue Apr 8 07:39:15 2025","Tue Apr 8 08:04:40 2025","134 mins","25 mins","159 mins"
+"devspaces-operator-bundle","3.20-19",67265100,"Tue Apr 8 15:27:15 2025","Tue Apr 8 17:10:49 2025","Tue Apr 8 17:17:13 2025","103 mins","6 mins","109 mins"
