@@ -14731,3 +14731,21 @@
   timeWait: 103 mins
   timeBuild: 6 mins
   timeTotal: 109 mins
+- name: devspaces-operator
+  tag: 3.20-12
+  taskId: 67297320
+  timeCreate: Thu Apr 10 12:05:13 2025
+  timeStart: Thu Apr 10 12:09:37 2025
+  timeFinish: Thu Apr 10 12:37:08 2025
+  timeWait: 4 mins
+  timeBuild: 27 mins
+  timeTotal: 31 mins
+- name: devspaces-operator-bundle
+  tag: 3.20-21
+  taskId: 67297700
+  timeCreate: Thu Apr 10 12:49:32 2025
+  timeStart: Thu Apr 10 12:49:41 2025
+  timeFinish: Thu Apr 10 12:55:59 2025
+  timeWait: 0 mins
+  timeBuild: 6 mins
+  timeTotal: 6 mins

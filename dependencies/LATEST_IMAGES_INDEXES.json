@@ -2,33 +2,21 @@
     "Indexes": {
         "operator-bundle": {
             "3.20": {
-                "v4.14": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:952077",
-                    "iibTag": "952077"
-                },
-                "v4.15": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:952078",
-                    "iibTag": "952078"
-                },
-                "v4.16": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:952079",
-                    "iibTag": "952079"
+                "v4.17": {
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:953705",
+                    "iibTag": "953705"
                 },
                 "v4.18": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:952080",
-                    "iibTag": "952080"
-                },
-                "v4.17": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:952081",
-                    "iibTag": "952081"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:953706",
+                    "iibTag": "953706"
                 },
                 "v4.19": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:952082",
-                    "iibTag": "952082"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:953707",
+                    "iibTag": "953707"
                 },
-                "OSBSImage": "registry-proxy.engineering.redhat.com/rh-osbs/devspaces-devspaces-operator-bundle:3.20-19",
-                "quayImage": "quay.io/devspaces/devspaces-operator-bundle:3.20-19",
-                "tag": "3.20-19"
+                "OSBSImage": "registry-proxy.engineering.redhat.com/rh-osbs/devspaces-devspaces-operator-bundle:3.20-21",
+                "quayImage": "quay.io/devspaces/devspaces-operator-bundle:3.20-21",
+                "tag": "3.20-21"
             }
         }
     }
