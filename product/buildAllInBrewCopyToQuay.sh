@@ -90,7 +90,8 @@ if [[ $PHASES == *"1"* ]]; then
         devspaces-pluginregistry \
         devspaces-server \
         devspaces-traefik \
-        devspaces-udi"
+        devspaces-udi \
+        devspaces-udi-base"
 fi
 
 # operator-bundle is built last after everything else is done

@@ -233,6 +233,7 @@ if [[ "${pkgs_devel_branch}" ]] && [[ "${CSV_VERSION}" ]]; then
 	\
 	devspaces-traefik \
 	devspaces-udi \
+	devspaces-udi-base \
 	; do
 	  pushTagPD $repo
 	done
