@@ -319,15 +319,15 @@
       },
       "3.21": {
         "upstream_branch": [
-          "v2.10.0",
-          "v2.10.0"
+          "v3.3.5",
+          "v3.3.5"
         ],
         "disabled": false
       },
       "3.x": {
         "upstream_branch": [
-          "v2.10.0",
-          "v2.10.0"
+          "v3.3.5",
+          "v3.3.5"
         ],
         "disabled": false
       }
@@ -388,36 +388,6 @@
         "upstream_branch": [
           "devspaces-3.21-rhel-9",
           "devspaces-3.21-rhel-9"
-        ],
-        "disabled": false
-      },
-      "3.x": {
-        "upstream_branch": [
-          "devspaces-3-rhel-9",
-          "devspaces-3-rhel-9"
-        ],
-        "disabled": false
-      }
-    },
-    "udi-base": {
-      "3.18": {
-        "upstream_branch": [
-          "devspaces-3.18-rhel-9",
-          "devspaces-3.18-rhel-9"
-        ],
-        "disabled": true
-      },
-      "3.19": {
-        "upstream_branch": [
-          "devspaces-3.19-rhel-9",
-          "devspaces-3.19-rhel-9"
-        ],
-        "disabled": false
-      },
-      "3.20": {
-        "upstream_branch": [
-          "devspaces-3.20-rhel-9",
-          "devspaces-3.20-rhel-9"
         ],
         "disabled": false
       },
