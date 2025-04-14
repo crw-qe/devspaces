@@ -2,6 +2,18 @@
     "Indexes": {
         "operator-bundle": {
             "3.20": {
+                "v4.14": {
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:953702",
+                    "iibTag": "953702"
+                },
+                "v4.15": {
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:953703",
+                    "iibTag": "953703"
+                },
+                "v4.16": {
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:953704",
+                    "iibTag": "953704"
+                },
                 "v4.17": {
                     "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:953705",
                     "iibTag": "953705"
