@@ -14,9 +14,9 @@ quay.io/devspaces/devspaces-rhel9-operator:3.20-12
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3598270
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=07b892f61d81aa314f56610ba513968c9e585b72
 
-quay.io/devspaces/devspaces-operator-bundle:3.20-21
-     NVR: devspaces-operator-bundle-container-3.20-21
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3598297
+quay.io/devspaces/devspaces-operator-bundle:3.20-22
+     NVR: devspaces-operator-bundle-container-3.20-22
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3604507
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=b98de6ec77fc9b0fa341e99534ca58faa9fba06a
 
 quay.io/devspaces/dashboard-rhel9:3.20-7
@@ -44,22 +44,7 @@ quay.io/devspaces/machineexec-rhel9:3.20-3
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3564056
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-machineexec/commit?id=c5076a12ea06bac5951cce63078b2555c590dfff
 
-quay.io/devspaces/pluginregistry-rhel9:3.20-6
-     NVR: devspaces-pluginregistry-rhel9-container-3.20-6
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3592365
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-pluginregistry/commit?id=67276fda396c4b11dbd5b805073409a45e8c73a8
-
-quay.io/devspaces/server-rhel9:3.20-13
-     NVR: devspaces-server-rhel9-container-3.20-13
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3588915
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-server/commit?id=c68fcef20dd1d25f8cac7cd6ea9b587935c39614
-
 quay.io/devspaces/traefik-rhel9:3.20-1
      NVR: devspaces-traefik-rhel9-container-3.20-1
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3564224
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-traefik/commit?id=97c06dbf6b3d7f8eb00958823ed93d1b255e099b
-
-quay.io/devspaces/udi-rhel9:3.20-8
-     NVR: devspaces-udi-rhel9-container-3.20-8
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3592652
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-udi/commit?id=539132660834aed3aac3f5ea76d0b21e1fd8750b
