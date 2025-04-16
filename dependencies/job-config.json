@@ -485,6 +485,13 @@
         ],
         "disabled": false
       },
+      "3.21": {
+        "upstream_branch": [
+          "devspaces-3.21-rhel-9",
+          "devspaces-3.21-rhel-9"
+        ],
+        "disabled": false
+      },
       "3.22": {
         "upstream_branch": [
           "devspaces-3.22-rhel-9",
