@@ -222,7 +222,7 @@ updateJobConfig() {
   # Find and version - 2 to disable in loop (should only be needed for hotfix releases)
   VERSION_KEYS=($(cat ${JOB_CONFIG} | jq -r '.Jobs'[\"dashboard\"]' | keys[]')) # Using dashboard to find versions
   #If there are more than 4 versions throw an error until extra versions are weeded out.
-  if [[ ${#VERSION_KEYS[@]} -gt 4 ]]; then echo "There are more than 4 versions in the job-config.json, please remove one."; exit 1; fi
+  #if [[ ${#VERSION_KEYS[@]} -gt 4 ]]; then echo "There are more than 4 versions in the job-config.json, please remove one."; exit 1; fi
 
   if [[ $VERBOSE ]]; then echo "[DEBUG] Versions in job-config.json: ${VERSION_KEYS[@]}"; fi
   OLDEST="${VERSION_KEYS[0]}"
