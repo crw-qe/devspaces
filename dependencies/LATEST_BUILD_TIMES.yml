@@ -14767,3 +14767,84 @@
   timeWait: 7 mins
   timeBuild: 6 mins
   timeTotal: 13 mins
+- name: devspaces-udi-rhel9
+  tag: 3.20-8.1744787567
+  taskId: 67350222
+  timeCreate: Wed Apr 16 03:12:47 2025
+  timeStart: Wed Apr 16 03:13:03 2025
+  timeFinish: Wed Apr 16 04:24:21 2025
+  timeWait: 0 mins
+  timeBuild: 71 mins
+  timeTotal: 71 mins
+- name: devspaces-jetbrains-ide-rhel9
+  tag: 3.20-7.1744787568
+  taskId: 67350223
+  timeCreate: Wed Apr 16 03:12:48 2025
+  timeStart: Wed Apr 16 03:13:04 2025
+  timeFinish: Wed Apr 16 03:34:15 2025
+  timeWait: 0 mins
+  timeBuild: 21 mins
+  timeTotal: 21 mins
+- name: devspaces-dashboard-rhel9
+  tag: 3.20-7.1744787568
+  taskId: 67350224
+  timeCreate: Wed Apr 16 03:12:49 2025
+  timeStart: Wed Apr 16 03:13:04 2025
+  timeFinish: Wed Apr 16 03:40:03 2025
+  timeWait: 0 mins
+  timeBuild: 26 mins
+  timeTotal: 27 mins
+- name: devspaces-udi-rhel9
+  tag: 3.20-8.1744796725
+  taskId: 67351700
+  timeCreate: Wed Apr 16 05:45:26 2025
+  timeStart: Wed Apr 16 05:47:55 2025
+  timeFinish: Wed Apr 16 06:59:12 2025
+  timeWait: 2 mins
+  timeBuild: 71 mins
+  timeTotal: 73 mins
+- name: devspaces-udi-rhel9
+  tag: 3.20-8.1744797593
+  taskId: 67352021
+  timeCreate: Wed Apr 16 05:59:53 2025
+  timeStart: Wed Apr 16 06:03:17 2025
+  timeFinish: Wed Apr 16 07:14:43 2025
+  timeWait: 3 mins
+  timeBuild: 71 mins
+  timeTotal: 74 mins
+- name: devspaces-server-rhel9
+  tag: 3.20-13.1744797594
+  taskId: 67352023
+  timeCreate: Wed Apr 16 05:59:54 2025
+  timeStart: Wed Apr 16 06:04:05 2025
+  timeFinish: Wed Apr 16 06:19:26 2025
+  timeWait: 4 mins
+  timeBuild: 15 mins
+  timeTotal: 19 mins
+- name: devspaces-pluginregistry-rhel9
+  tag: 3.20-6.1744797595
+  taskId: 67352024
+  timeCreate: Wed Apr 16 05:59:55 2025
+  timeStart: Wed Apr 16 06:04:06 2025
+  timeFinish: Wed Apr 16 06:59:58 2025
+  timeWait: 4 mins
+  timeBuild: 55 mins
+  timeTotal: 60 mins
+- name: devspaces-udi-rhel9
+  tag: 3.20-8.1744827187
+  taskId: 67356568
+  timeCreate: Wed Apr 16 14:13:07 2025
+  timeStart: Wed Apr 16 14:16:21 2025
+  timeFinish: Wed Apr 16 15:28:14 2025
+  timeWait: 3 mins
+  timeBuild: 71 mins
+  timeTotal: 75 mins
+- name: devspaces-operator-bundle
+  tag: 3.20-24
+  taskId: 67369966
+  timeCreate: Thu Apr 17 13:25:56 2025
+  timeStart: Thu Apr 17 13:26:19 2025
+  timeFinish: Thu Apr 17 13:32:52 2025
+  timeWait: 0 mins
+  timeBuild: 6 mins
+  timeTotal: 6 mins
