@@ -389,22 +389,22 @@
       },
       "3.21": {
         "upstream_branch": [
-          "v2.10.0",
-          "v2.10.0"
+          "v3.3.5",
+          "v3.3.5"
         ],
         "disabled": false
       },
       "3.22": {
         "upstream_branch": [
-          "v2.10.0",
-          "v2.10.0"
+          "v3.3.5",
+          "v3.3.5"
         ],
         "disabled": false
       },
       "3.x": {
         "upstream_branch": [
-          "v2.10.0",
-          "v2.10.0"
+          "v3.3.5",
+          "v3.3.5"
         ],
         "disabled": false
       }
