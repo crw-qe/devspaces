@@ -14,9 +14,9 @@ quay.io/devspaces/devspaces-rhel9-operator:3.20-12
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3598270
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=07b892f61d81aa314f56610ba513968c9e585b72
 
-quay.io/devspaces/devspaces-operator-bundle:3.20-24
-     NVR: devspaces-operator-bundle-container-3.20-24
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3609828
+quay.io/devspaces/devspaces-operator-bundle:3.20-25
+     NVR: devspaces-operator-bundle-container-3.20-25
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3617716
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=b98de6ec77fc9b0fa341e99534ca58faa9fba06a
 
 quay.io/devspaces/dashboard-rhel9:3.20-7

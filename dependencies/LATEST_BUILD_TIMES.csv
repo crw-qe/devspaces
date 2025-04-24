@@ -1649,3 +1649,4 @@
 "devspaces-pluginregistry-rhel9","3.20-6.1744797595",67352024,"Wed Apr 16 05:59:55 2025","Wed Apr 16 06:04:06 2025","Wed Apr 16 06:59:58 2025","4 mins","55 mins","60 mins"
 "devspaces-udi-rhel9","3.20-8.1744827187",67356568,"Wed Apr 16 14:13:07 2025","Wed Apr 16 14:16:21 2025","Wed Apr 16 15:28:14 2025","3 mins","71 mins","75 mins"
 "devspaces-operator-bundle","3.20-24",67369966,"Thu Apr 17 13:25:56 2025","Thu Apr 17 13:26:19 2025","Thu Apr 17 13:32:52 2025","0 mins","6 mins","6 mins"
+"devspaces-operator-bundle","3.20-25",67415726,"Thu Apr 24 05:25:49 2025","Thu Apr 24 05:26:19 2025","Thu Apr 24 05:32:52 2025","0 mins","6 mins","7 mins"
