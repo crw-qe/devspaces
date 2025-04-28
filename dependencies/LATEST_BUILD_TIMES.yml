@@ -14344,3 +14344,120 @@
   timeWait: 0 mins
   timeBuild: 3 mins
   timeTotal: 4 mins
+- name: devspaces-imagepuller-rhel9
+  tag: 3.21-1
+  taskId: 67358896
+  timeCreate: Wed Apr 16 18:09:06 2025
+  timeStart: Wed Apr 16 18:09:40 2025
+  timeFinish: Wed Apr 16 18:40:15 2025
+  timeWait: 0 mins
+  timeBuild: 30 mins
+  timeTotal: 31 mins
+- name: devspaces-jetbrains-ide-rhel9
+  tag: 3.21-1
+  taskId: 67358900
+  timeCreate: Wed Apr 16 18:09:34 2025
+  timeStart: Wed Apr 16 18:10:26 2025
+  timeFinish: Wed Apr 16 18:32:15 2025
+  timeWait: 0 mins
+  timeBuild: 21 mins
+  timeTotal: 22 mins
+- name: devspaces-udi-rhel9
+  tag: 3.21-4
+  taskId: 67359055
+  timeCreate: Wed Apr 16 19:02:41 2025
+  timeStart: Wed Apr 16 19:02:51 2025
+  timeFinish: Wed Apr 16 20:15:13 2025
+  timeWait: 0 mins
+  timeBuild: 72 mins
+  timeTotal: 72 mins
+- name: devspaces-configbump-rhel9
+  tag: 3.21-2
+  taskId: 67368208
+  timeCreate: Thu Apr 17 10:11:53 2025
+  timeStart: Thu Apr 17 10:12:27 2025
+  timeFinish: Thu Apr 17 10:36:48 2025
+  timeWait: 0 mins
+  timeBuild: 24 mins
+  timeTotal: 24 mins
+- name: devspaces-machineexec-rhel9
+  tag: 3.21-2
+  taskId: 67369497
+  timeCreate: Thu Apr 17 12:19:22 2025
+  timeStart: Thu Apr 17 12:38:33 2025
+  timeFinish: Thu Apr 17 13:02:02 2025
+  timeWait: 19 mins
+  timeBuild: 23 mins
+  timeTotal: 42 mins
+- name: devspaces-idea-rhel9
+  tag: 3.21-1
+  taskId: 67369652
+  timeCreate: Thu Apr 17 12:32:32 2025
+  timeStart: Thu Apr 17 12:56:19 2025
+  timeFinish: Thu Apr 17 13:17:37 2025
+  timeWait: 23 mins
+  timeBuild: 21 mins
+  timeTotal: 45 mins
+- name: devspaces-pluginregistry-rhel9
+  tag: 3.21-3
+  taskId: 67369791
+  timeCreate: Thu Apr 17 13:02:08 2025
+  timeStart: Thu Apr 17 13:04:51 2025
+  timeFinish: Thu Apr 17 14:07:09 2025
+  timeWait: 2 mins
+  timeBuild: 62 mins
+  timeTotal: 65 mins
+- name: devspaces-operator
+  tag: 3.21-4
+  taskId: 67371074
+  timeCreate: Thu Apr 17 16:10:09 2025
+  timeStart: Thu Apr 17 16:10:33 2025
+  timeFinish: Thu Apr 17 16:32:34 2025
+  timeWait: 0 mins
+  timeBuild: 22 mins
+  timeTotal: 22 mins
+- name: devspaces-server-rhel9
+  tag: 3.21-8
+  taskId: 67374857
+  timeCreate: Fri Apr 18 04:03:02 2025
+  timeStart: Fri Apr 18 04:03:40 2025
+  timeFinish: Fri Apr 18 04:15:31 2025
+  timeWait: 0 mins
+  timeBuild: 11 mins
+  timeTotal: 12 mins
+- name: devspaces-code-rhel9
+  tag: 3.21-4
+  taskId: 67397114
+  timeCreate: Tue Apr 22 10:41:11 2025
+  timeStart: Tue Apr 22 10:45:55 2025
+  timeFinish: Tue Apr 22 16:58:55 2025
+  timeWait: 4 mins
+  timeBuild: 373 mins
+  timeTotal: 377 mins
+- name: devspaces-traefik-rhel9
+  tag: 3.21-1
+  taskId: 67401603
+  timeCreate: Tue Apr 22 19:12:14 2025
+  timeStart: Tue Apr 22 19:12:34 2025
+  timeFinish: Tue Apr 22 19:38:53 2025
+  timeWait: 0 mins
+  timeBuild: 26 mins
+  timeTotal: 26 mins
+- name: devspaces-dashboard-rhel9
+  tag: 3.21-10
+  taskId: 67432011
+  timeCreate: Fri Apr 25 04:25:25 2025
+  timeStart: Fri Apr 25 08:15:06 2025
+  timeFinish: Fri Apr 25 08:41:55 2025
+  timeWait: 229 mins
+  timeBuild: 26 mins
+  timeTotal: 256 mins
+- name: devspaces-operator-bundle
+  tag: 3.21-3
+  taskId: 67454335
+  timeCreate: Mon Apr 28 07:53:49 2025
+  timeStart: Mon Apr 28 08:36:15 2025
+  timeFinish: Mon Apr 28 08:43:50 2025
+  timeWait: 42 mins
+  timeBuild: 7 mins
+  timeTotal: 50 mins
