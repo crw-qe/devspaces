@@ -1606,3 +1606,5 @@
 "devspaces-traefik-rhel9","3.21-1",67401603,"Tue Apr 22 19:12:14 2025","Tue Apr 22 19:12:34 2025","Tue Apr 22 19:38:53 2025","0 mins","26 mins","26 mins"
 "devspaces-dashboard-rhel9","3.21-10",67432011,"Fri Apr 25 04:25:25 2025","Fri Apr 25 08:15:06 2025","Fri Apr 25 08:41:55 2025","229 mins","26 mins","256 mins"
 "devspaces-operator-bundle","3.21-3",67454335,"Mon Apr 28 07:53:49 2025","Mon Apr 28 08:36:15 2025","Mon Apr 28 08:43:50 2025","42 mins","7 mins","50 mins"
+"devspaces-configbump-rhel9","3.21-3",67459919,"Mon Apr 28 16:10:02 2025","Mon Apr 28 16:16:33 2025","Mon Apr 28 16:38:51 2025","6 mins","22 mins","28 mins"
+"devspaces-operator-bundle","3.21-4",67460333,"Mon Apr 28 16:57:08 2025","Mon Apr 28 17:02:28 2025","Mon Apr 28 17:09:46 2025","5 mins","7 mins","12 mins"
