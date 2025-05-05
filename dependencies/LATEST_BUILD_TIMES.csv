@@ -1606,3 +1606,5 @@
 "devspaces-jetbrains-ide-rhel9","3.22-1",67499096,"Fri May 2 06:24:03 2025","Fri May 2 06:24:07 2025","Fri May 2 06:43:07 2025","0 mins","19 mins","19 mins"
 "devspaces-traefik-rhel9","3.22-1",67499583,"Fri May 2 07:44:40 2025","Fri May 2 07:45:34 2025","Fri May 2 08:13:08 2025","0 mins","27 mins","28 mins"
 "devspaces-operator-bundle","3.22-1",67499781,"Fri May 2 08:25:18 2025","Fri May 2 08:25:31 2025","Fri May 2 08:30:45 2025","0 mins","5 mins","5 mins"
+"devspaces-server-rhel9","3.22-2",67512397,"Mon May 5 04:13:52 2025","Mon May 5 04:14:33 2025","Mon May 5 04:25:31 2025","0 mins","10 mins","11 mins"
+"devspaces-operator-bundle","3.22-2",67512494,"Mon May 5 04:42:14 2025","Mon May 5 04:42:30 2025","Mon May 5 04:46:46 2025","0 mins","4 mins","4 mins"
