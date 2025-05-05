@@ -1,7 +1,7 @@
 quay.io/devspaces/code-rhel9:3.21-4
 quay.io/devspaces/configbump-rhel9:3.21-5
 quay.io/devspaces/devspaces-rhel9-operator:3.21-6
-quay.io/devspaces/devspaces-operator-bundle:3.21-8
+quay.io/devspaces/devspaces-operator-bundle:3.21-9
 quay.io/devspaces/dashboard-rhel9:3.21-11
 quay.io/devspaces/idea-rhel9:3.21-1
 quay.io/devspaces/jetbrains-ide-rhel9:3.21-2
@@ -11,4 +11,4 @@ quay.io/devspaces/pluginregistry-rhel9:3.21-4
 quay.io/devspaces/server-rhel9:3.21-9
 quay.io/devspaces/traefik-rhel9:3.21-1
 quay.io/devspaces/udi-rhel9:3.21-4
-quay.io/devspaces/udi-base-rhel9:3.21-1
+quay.io/devspaces/udi-base-rhel9:3.21-2
