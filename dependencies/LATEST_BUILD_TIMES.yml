@@ -14506,3 +14506,21 @@
   timeWait: 0 mins
   timeBuild: 5 mins
   timeTotal: 5 mins
+- name: devspaces-configbump-rhel9
+  tag: 3.22-2
+  taskId: 67545784
+  timeCreate: Wed May 7 08:07:38 2025
+  timeStart: Wed May 7 08:08:26 2025
+  timeFinish: Wed May 7 08:29:58 2025
+  timeWait: 0 mins
+  timeBuild: 21 mins
+  timeTotal: 22 mins
+- name: devspaces-operator-bundle
+  tag: 3.22-4
+  taskId: 67546127
+  timeCreate: Wed May 7 08:46:28 2025
+  timeStart: Wed May 7 08:46:57 2025
+  timeFinish: Wed May 7 08:53:16 2025
+  timeWait: 0 mins
+  timeBuild: 6 mins
+  timeTotal: 6 mins
