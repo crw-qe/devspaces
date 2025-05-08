@@ -2,33 +2,21 @@
     "Indexes": {
         "operator-bundle": {
             "3.20": {
-                "v4.14": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:960462",
-                    "iibTag": "960462"
-                },
-                "v4.15": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:960463",
-                    "iibTag": "960463"
-                },
-                "v4.16": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:960464",
-                    "iibTag": "960464"
-                },
                 "v4.17": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:960465",
-                    "iibTag": "960465"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:967502",
+                    "iibTag": "967502"
                 },
                 "v4.18": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:960466",
-                    "iibTag": "960466"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:967503",
+                    "iibTag": "967503"
                 },
                 "v4.19": {
-                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:960467",
-                    "iibTag": "960467"
+                    "iibURL": "registry-proxy.engineering.redhat.com/rh-osbs/iib:967505",
+                    "iibTag": "967505"
                 },
-                "OSBSImage": "registry-proxy.engineering.redhat.com/rh-osbs/devspaces-devspaces-operator-bundle:3.20-25",
-                "quayImage": "quay.io/devspaces/devspaces-operator-bundle:3.20-25",
-                "tag": "3.20-25"
+                "OSBSImage": "registry-proxy.engineering.redhat.com/rh-osbs/devspaces-devspaces-operator-bundle:3.20-26",
+                "quayImage": "quay.io/devspaces/devspaces-operator-bundle:3.20-26",
+                "tag": "3.20-26"
             }
         }
     }
