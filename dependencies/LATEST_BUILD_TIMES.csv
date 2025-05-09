@@ -1613,3 +1613,5 @@
 "devspaces-operator-bundle","3.22-3",67535046,"Tue May 6 13:01:28 2025","Tue May 6 13:02:06 2025","Tue May 6 13:07:15 2025","0 mins","5 mins","5 mins"
 "devspaces-configbump-rhel9","3.22-2",67545784,"Wed May 7 08:07:38 2025","Wed May 7 08:08:26 2025","Wed May 7 08:29:58 2025","0 mins","21 mins","22 mins"
 "devspaces-operator-bundle","3.22-4",67546127,"Wed May 7 08:46:28 2025","Wed May 7 08:46:57 2025","Wed May 7 08:53:16 2025","0 mins","6 mins","6 mins"
+"devspaces-machineexec-rhel9","3.22-2",67572932,"Fri May 9 06:03:09 2025","Fri May 9 06:03:43 2025","Fri May 9 06:16:12 2025","0 mins","12 mins","13 mins"
+"devspaces-operator-bundle","3.22-5",67573645,"Fri May 9 06:29:06 2025","Fri May 9 06:29:24 2025","Fri May 9 06:33:32 2025","0 mins","4 mins","4 mins"
