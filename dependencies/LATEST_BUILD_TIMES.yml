@@ -14578,3 +14578,39 @@
   timeWait: 0 mins
   timeBuild: 5 mins
   timeTotal: 5 mins
+- name: devspaces-dashboard-rhel9
+  tag: 3.22-6
+  taskId: 67620247
+  timeCreate: Wed May 14 10:24:45 2025
+  timeStart: Wed May 14 17:23:38 2025
+  timeFinish: Wed May 14 17:50:52 2025
+  timeWait: 418 mins
+  timeBuild: 27 mins
+  timeTotal: 446 mins
+- name: devspaces-code-rhel9
+  tag: 3.22-3
+  taskId: 67620310
+  timeCreate: Wed May 14 10:32:54 2025
+  timeStart: Wed May 14 17:24:26 2025
+  timeFinish: Wed May 14 21:10:41 2025
+  timeWait: 411 mins
+  timeBuild: 226 mins
+  timeTotal: 637 mins
+- name: devspaces-server-rhel9
+  tag: 3.22-4
+  taskId: 67632833
+  timeCreate: Thu May 15 03:40:54 2025
+  timeStart: Thu May 15 03:41:48 2025
+  timeFinish: Thu May 15 03:53:29 2025
+  timeWait: 0 mins
+  timeBuild: 11 mins
+  timeTotal: 12 mins
+- name: devspaces-operator-bundle
+  tag: 3.22-9
+  taskId: 67633303
+  timeCreate: Thu May 15 04:17:53 2025
+  timeStart: Thu May 15 04:18:39 2025
+  timeFinish: Thu May 15 04:22:42 2025
+  timeWait: 0 mins
+  timeBuild: 4 mins
+  timeTotal: 4 mins

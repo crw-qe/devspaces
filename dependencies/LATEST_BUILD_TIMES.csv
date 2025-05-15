@@ -1619,3 +1619,7 @@
 "devspaces-operator-bundle","3.22-6",67587956,"Mon May 12 07:58:25 2025","Mon May 12 07:58:42 2025","Mon May 12 08:09:59 2025","0 mins","11 mins","11 mins"
 "devspaces-pluginregistry-rhel9","3.22-2",67590100,"Mon May 12 12:19:05 2025","Mon May 12 12:19:27 2025","Mon May 12 13:19:15 2025","0 mins","59 mins","60 mins"
 "devspaces-operator-bundle","3.22-8",67596873,"Mon May 12 17:59:56 2025","Mon May 12 18:00:33 2025","Mon May 12 18:05:48 2025","0 mins","5 mins","5 mins"
+"devspaces-dashboard-rhel9","3.22-6",67620247,"Wed May 14 10:24:45 2025","Wed May 14 17:23:38 2025","Wed May 14 17:50:52 2025","418 mins","27 mins","446 mins"
+"devspaces-code-rhel9","3.22-3",67620310,"Wed May 14 10:32:54 2025","Wed May 14 17:24:26 2025","Wed May 14 21:10:41 2025","411 mins","226 mins","637 mins"
+"devspaces-server-rhel9","3.22-4",67632833,"Thu May 15 03:40:54 2025","Thu May 15 03:41:48 2025","Thu May 15 03:53:29 2025","0 mins","11 mins","12 mins"
+"devspaces-operator-bundle","3.22-9",67633303,"Thu May 15 04:17:53 2025","Thu May 15 04:18:39 2025","Thu May 15 04:22:42 2025","0 mins","4 mins","4 mins"
