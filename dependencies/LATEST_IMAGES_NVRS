@@ -1,8 +1,8 @@
 devspaces-code-rhel9-container-3.21-5
 devspaces-configbump-rhel9-container-3.21-5
 devspaces-rhel9-operator-container-3.21-6
-devspaces-operator-bundle-container-3.21-21
-devspaces-dashboard-rhel9-container-3.21-11
+devspaces-operator-bundle-container-3.21-22
+devspaces-dashboard-rhel9-container-3.21-12
 devspaces-idea-rhel9-container-3.21-1
 devspaces-jetbrains-ide-rhel9-container-3.21-2
 devspaces-imagepuller-rhel9-container-3.21-2
