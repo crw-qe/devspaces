@@ -1716,3 +1716,5 @@
 "devspaces-pluginregistry-rhel9","3.20-7.1747257797",67626684,"Wed May 14 17:23:17 2025","Wed May 14 17:23:36 2025","Wed May 14 18:20:39 2025","0 mins","57 mins","57 mins"
 "devspaces-udi-rhel9","3.20-11",67644537,"Thu May 15 21:51:11 2025","Thu May 15 21:51:54 2025","Thu May 15 22:48:20 2025","0 mins","56 mins","57 mins"
 "devspaces-operator-bundle","3.20-31",67644997,"Thu May 15 23:16:21 2025","Thu May 15 23:16:37 2025","Thu May 15 23:20:52 2025","0 mins","4 mins","4 mins"
+"devspaces-pluginregistry-rhel9","3.20-8",67650391,"Fri May 16 12:39:14 2025","Fri May 16 12:39:19 2025","Fri May 16 13:33:34 2025","0 mins","54 mins","54 mins"
+"devspaces-operator-bundle","3.20-32",67651075,"Fri May 16 13:56:46 2025","Fri May 16 13:57:00 2025","Fri May 16 14:02:46 2025","0 mins","5 mins","6 mins"

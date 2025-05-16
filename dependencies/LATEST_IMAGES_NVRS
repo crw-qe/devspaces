@@ -5,7 +5,7 @@ devspaces-rhel9-operator-container-3.20-12.1745839305
 devspaces-rhel9-operator-container-3.20-12.1747238892
 devspaces-rhel9-operator-container-3.20-12.1747239172
 devspaces-rhel9-operator-container-3.20-12.1747239501
-devspaces-operator-bundle-container-3.20-31
+devspaces-operator-bundle-container-3.20-32
 devspaces-dashboard-rhel9-container-3.20-7
 devspaces-dashboard-rhel9-container-3.20-7.1744787568
 devspaces-dashboard-rhel9-container-3.20-7.1745839308
@@ -57,10 +57,7 @@ devspaces-machineexec-rhel9-container-3.20-3.1745839306
 devspaces-machineexec-rhel9-container-3.20-3.1747239173
 devspaces-machineexec-rhel9-container-3.20-3.1747239502
 devspaces-machineexec-rhel9-container-3.20-3.1747241263
-devspaces-pluginregistry-rhel9-container-3.20-7
-devspaces-pluginregistry-rhel9-container-3.20-7.1747021470
-devspaces-pluginregistry-rhel9-container-3.20-7.1747253722
-devspaces-pluginregistry-rhel9-container-3.20-7.1747257797
+devspaces-pluginregistry-rhel9-container-3.20-8
 devspaces-server-rhel9-container-3.20-13
 devspaces-server-rhel9-container-3.20-13.1744797594
 devspaces-server-rhel9-container-3.20-13.1745839304
