@@ -14659,3 +14659,21 @@
   timeWait: 2 mins
   timeBuild: 5 mins
   timeTotal: 7 mins
+- name: devspaces-jetbrains-ide-rhel9
+  tag: 3.22-2
+  taskId: 67649433
+  timeCreate: Fri May 16 09:36:52 2025
+  timeStart: Fri May 16 09:37:10 2025
+  timeFinish: Fri May 16 09:54:46 2025
+  timeWait: 0 mins
+  timeBuild: 17 mins
+  timeTotal: 17 mins
+- name: devspaces-operator-bundle
+  tag: 3.22-12
+  taskId: 67649793
+  timeCreate: Fri May 16 10:57:38 2025
+  timeStart: Fri May 16 10:58:30 2025
+  timeFinish: Fri May 16 11:02:41 2025
+  timeWait: 0 mins
+  timeBuild: 4 mins
+  timeTotal: 5 mins
