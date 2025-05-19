@@ -14,9 +14,9 @@ quay.io/devspaces/devspaces-rhel9-operator:3.21-6
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3629210
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=456af5735df6fe1290e1d24f466c868e92018ffb
 
-quay.io/devspaces/devspaces-operator-bundle:3.21-24
-     NVR: devspaces-operator-bundle-container-3.21-24
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3650186
+quay.io/devspaces/devspaces-operator-bundle:3.21-25
+     NVR: devspaces-operator-bundle-container-3.21-25
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3653522
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=4bb7e02be3b529b5183c24c5e3819ab025b04687
 
 quay.io/devspaces/dashboard-rhel9:3.21-12
@@ -29,10 +29,10 @@ quay.io/devspaces/idea-rhel9:3.21-1
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3609784
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-idea/commit?id=af36099dd74bccb1f5927c137f0cef46ca691a02
 
-quay.io/devspaces/jetbrains-ide-rhel9:3.21-2
-     NVR: devspaces-jetbrains-ide-rhel9-container-3.21-2
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3629644
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-jetbrains-ide/commit?id=e0914e3272a5d0f15e2ab8b9133b97a2930a6a22
+quay.io/devspaces/jetbrains-ide-rhel9:3.21-3
+     NVR: devspaces-jetbrains-ide-rhel9-container-3.21-3
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3653396
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-jetbrains-ide/commit?id=ada1e026090473381697a19bc02ccab4ffae3a78
 
 quay.io/devspaces/imagepuller-rhel9:3.21-2
      NVR: devspaces-imagepuller-rhel9-container-3.21-2
