@@ -14,9 +14,9 @@ quay.io/devspaces/devspaces-rhel9-operator:3.22-2
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3629208
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator/commit?id=6918345dc9d5a79f46272a33d271eb8f987c99b5
 
-quay.io/devspaces/devspaces-operator-bundle:3.22-15
-     NVR: devspaces-operator-bundle-container-3.22-15
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3662778
+quay.io/devspaces/devspaces-operator-bundle:3.22-16
+     NVR: devspaces-operator-bundle-container-3.22-16
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3665809
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-operator-bundle/commit?id=9c355379b033014b48b53442aca7e7c76b6b0f59
 
 quay.io/devspaces/dashboard-rhel9:3.22-7
@@ -46,10 +46,10 @@ quay.io/devspaces/pluginregistry-rhel9:3.22-2
    Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3643129
   Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-pluginregistry/commit?id=72b6c2bfd94c5d5aeebb2d06070fda1fe99322d0
 
-quay.io/devspaces/server-rhel9:3.22-5
-     NVR: devspaces-server-rhel9-container-3.22-5
-   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3648793
-  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-server/commit?id=70148a2a80253e62a96ba9f5df07af6dfff5ee59
+quay.io/devspaces/server-rhel9:3.22-6
+     NVR: devspaces-server-rhel9-container-3.22-6
+   Build: https://brewweb.engineering.redhat.com/brew/buildinfo?buildID=3665801
+  Source: https://pkgs.devel.redhat.com/cgit/containers/devspaces-server/commit?id=5f577f5002f1bce2ebfe7613d205007364a1e2f3
 
 quay.io/devspaces/traefik-rhel9:3.22-1
      NVR: devspaces-traefik-rhel9-container-3.22-1
