@@ -1642,3 +1642,5 @@
 "devspaces-operator-bundle","3.22-18",67767066,"Thu May 29 11:46:32 2025","Thu May 29 11:48:08 2025","Thu May 29 11:53:13 2025","1 mins","5 mins","6 mins"
 "devspaces-operator","3.22-4",67774073,"Fri May 30 05:05:42 2025","Fri May 30 05:05:56 2025","Fri May 30 05:25:57 2025","0 mins","20 mins","20 mins"
 "devspaces-operator-bundle","3.22-19",67774265,"Fri May 30 05:33:21 2025","Fri May 30 05:34:00 2025","Fri May 30 05:37:56 2025","0 mins","3 mins","4 mins"
+"devspaces-pluginregistry-rhel9","3.22-3",67804769,"Tue Jun 3 05:14:11 2025","Tue Jun 3 05:32:44 2025","Tue Jun 3 06:29:27 2025","18 mins","56 mins","75 mins"
+"devspaces-operator-bundle","3.22-20",67806960,"Tue Jun 3 06:43:09 2025","Tue Jun 3 07:01:58 2025","Tue Jun 3 07:11:19 2025","18 mins","9 mins","28 mins"
