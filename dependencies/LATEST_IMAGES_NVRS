@@ -1,13 +1,13 @@
 devspaces-code-rhel9-container-3.22-5
 devspaces-configbump-rhel9-container-3.22-3
 devspaces-rhel9-operator-container-3.22-5
-devspaces-operator-bundle-container-3.22-21
+devspaces-operator-bundle-container-3.22-22
 devspaces-dashboard-rhel9-container-3.22-7
 devspaces-idea-rhel9-container-3.22-1
 devspaces-jetbrains-ide-rhel9-container-3.22-2
 devspaces-machineexec-rhel9-container-3.22-3
 devspaces-pluginregistry-rhel9-container-3.22-3
-devspaces-server-rhel9-container-3.22-6
+devspaces-server-rhel9-container-3.22-7
 devspaces-traefik-rhel9-container-3.22-1
 devspaces-udi-rhel9-container-3.22-3
 devspaces-udi-base-rhel9-container-3.22-1

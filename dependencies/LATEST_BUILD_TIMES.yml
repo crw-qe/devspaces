@@ -14821,3 +14821,21 @@
   timeWait: 31 mins
   timeBuild: 6 mins
   timeTotal: 37 mins
+- name: devspaces-server-rhel9
+  tag: 3.22-7
+  taskId: 67811997
+  timeCreate: Tue Jun 3 12:55:20 2025
+  timeStart: Tue Jun 3 13:01:26 2025
+  timeFinish: Tue Jun 3 13:14:36 2025
+  timeWait: 6 mins
+  timeBuild: 13 mins
+  timeTotal: 19 mins
+- name: devspaces-operator-bundle
+  tag: 3.22-22
+  taskId: 67812875
+  timeCreate: Tue Jun 3 15:00:20 2025
+  timeStart: Tue Jun 3 15:00:37 2025
+  timeFinish: Tue Jun 3 15:04:34 2025
+  timeWait: 0 mins
+  timeBuild: 3 mins
+  timeTotal: 4 mins
