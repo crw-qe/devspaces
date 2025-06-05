@@ -14866,3 +14866,21 @@
   timeWait: 0 mins
   timeBuild: 4 mins
   timeTotal: 4 mins
+- name: devspaces-configbump-rhel9
+  tag: 3.22-4
+  taskId: 67837581
+  timeCreate: Thu Jun 5 08:07:45 2025
+  timeStart: Thu Jun 5 08:07:53 2025
+  timeFinish: Thu Jun 5 08:27:24 2025
+  timeWait: 0 mins
+  timeBuild: 19 mins
+  timeTotal: 19 mins
+- name: devspaces-operator-bundle
+  tag: 3.22-24
+  taskId: 67837937
+  timeCreate: Thu Jun 5 08:38:50 2025
+  timeStart: Thu Jun 5 08:39:32 2025
+  timeFinish: Thu Jun 5 08:43:11 2025
+  timeWait: 0 mins
+  timeBuild: 3 mins
+  timeTotal: 4 mins
