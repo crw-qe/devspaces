@@ -14956,3 +14956,21 @@
   timeWait: 0 mins
   timeBuild: 4 mins
   timeTotal: 5 mins
+- name: devspaces-machineexec-rhel9
+  tag: 3.22-4
+  taskId: 67986610
+  timeCreate: Wed Jun 18 12:00:58 2025
+  timeStart: Wed Jun 18 12:01:25 2025
+  timeFinish: Wed Jun 18 12:14:14 2025
+  timeWait: 0 mins
+  timeBuild: 12 mins
+  timeTotal: 13 mins
+- name: devspaces-operator-bundle
+  tag: 3.22-29
+  taskId: 67986881
+  timeCreate: Wed Jun 18 12:36:55 2025
+  timeStart: Wed Jun 18 12:37:06 2025
+  timeFinish: Wed Jun 18 12:41:25 2025
+  timeWait: 0 mins
+  timeBuild: 4 mins
+  timeTotal: 4 mins
