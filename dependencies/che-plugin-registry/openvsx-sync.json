@@ -49,11 +49,11 @@
   },
   {
     "id": "llvm-vs-code-extensions.vscode-clangd",
-    "version": "0.1.33"
+    "version": "0.2.0"
   },
   {
     "id": "eclipse-cdt.cdt-gdb-vscode",
-    "version": "2.0.4"
+    "version": "2.0.5"
   },
   {
     "id": "bmewburn.vscode-intelephense-client",
@@ -105,11 +105,11 @@
   },
   {
     "id": "ms-kubernetes-tools.vscode-kubernetes-tools",
-    "version": "1.3.23"
+    "version": "1.3.24"
   },
   {
     "id": "redhat.java",
-    "version": "1.42.0"
+    "version": "1.43.0"
   },
   {
     "id": "vscjava.vscode-java-debug",
@@ -133,7 +133,7 @@
   },
   {
     "id": "redhat.fabric8-analytics",
-    "version": "0.9.5"
+    "version": "0.9.6"
   },
   {
     "id": "redhat.vscode-redhat-account",
@@ -153,11 +153,11 @@
   },
   {
     "id": "muhammad-sammy.csharp",
-    "version": "2.72.27"
+    "version": "2.80.16"
   },
   {
     "id": "SonarSource.sonarlint-vscode",
-    "version": "4.23.0"
+    "version": "4.25.1"
   },
   {
     "id": "vscode.git-base",
@@ -177,11 +177,11 @@
   },
   {
     "id": "atlassian.atlascode",
-    "version": "3.8.2"
+    "version": "3.8.5"
   },
   {
     "id": "JFrog.jfrog-vscode-extension",
-    "version": "2.13.9"
+    "version": "2.14.0"
   },
   {
     "id": "SonatypeCommunity.vscode-iq-plugin",
@@ -189,7 +189,7 @@
   },
   {
     "id": "GitLab.gitlab-workflow",
-    "version": "6.19.0"
+    "version": "6.30.0"
   },
   {
     "id": "timonwong.shellcheck",
@@ -209,11 +209,11 @@
   },
   {
     "id": "eamodio.gitlens",
-    "version": "17.1.1"
+    "version": "17.2.1"
   },
   {
     "id": "Continue.continue",
-    "version": "1.0.7"
+    "version": "1.0.15"
   },
   {
     "id": "typefox.open-collaboration-tools",
@@ -229,15 +229,15 @@
   },
   {
     "id": "mongodb.mongodb-vscode",
-    "version": "1.13.2"
+    "version": "1.13.3"
   },
   {
     "id": "Zowe.vscode-extension-for-zowe",
-    "version": "3.2.0"
+    "version": "3.2.1"
   },
   {
     "id": "Zowe.zowe-explorer-ftp-extension",
-    "version": "3.2.0"
+    "version": "3.2.1"
   },
   {
     "id": "Zowe.cics-extension-for-zowe",
@@ -245,14 +245,14 @@
   },
   {
     "id": "IBM.zopeneditor",
-    "version": "5.4.1"
+    "version": "5.5.0"
   },
   {
     "id": "IBM.zopendebug",
-    "version": "5.4.0"
+    "version": "5.5.0"
   },
   {
     "id": "Zowe.secrets-for-kubernetes",
-    "version": "0.2.0"
+    "version": "0.3.0"
   }
 ]
