@@ -172,7 +172,13 @@ pushBranchAndOrTagGH () {
 
 		# for the devspaces sample repos, update devfiles to point to the correct tag/branch
 		if [[ "$isSample" == "sample" ]]; then
-			updateSampleDevfileReferences
+			# exclude samples with images that use community images e.g. dotnet-web-simple
+			if [[ "$d" == "dotnet-web-simple" ]]; then
+				echo "[DEBUG] Skipping update of image references in devfile for sample: $d"
+			else
+				echo "[DEBUG] Updating image references in devfile for sample: $d"
+				updateSampleDevfileReferences
+			fi
 		fi
 
 		git pull origin "${TARGET_BRANCH}" || true
