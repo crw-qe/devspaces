@@ -646,8 +646,8 @@
     "CHE_OPENVSX_TAG": {
       "3.19": "che-openvsx-v0.19.0",
       "3.20": "che-openvsx-v0.19.0",
-      "3.21": "che-openvsx-v0.19.0",
-      "3.x": "che-openvsx-v0.19.0"
+      "3.21": "che-openvsx-v0.27.0",
+      "3.x": "che-openvsx-v0.27.0"
     },
     "OPENSHIFT_VERSIONS_SUPPORTED": {
       "3.19": [
